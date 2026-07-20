@@ -4,6 +4,7 @@ Frontend Software Engineer | React • JavaScript • Node.js
 Building modern, scalable and user-friendly web applications.
 
 💻 About Me
+
 💼 Frontend Software Engineer with 3+ years of experience building enterprise React applications.
 ⚛️ Experienced in React, JavaScript, REST APIs, and responsive UI development.
 🛠 Worked with ASP.NET, C#, SQL Server, and Dynamics AX.
@@ -25,12 +26,11 @@ Features
 ☁️ Deployed on Vercel & Render
 
 Repository:
-
 https://github.com/A-J151/newspulse
 
 Live Demo:
-
 https://newspulse-cyan.vercel.app
+
 🛠 Tech Stack
 Frontend
 React
@@ -55,13 +55,9 @@ Git
 GitHub
 VS Code
 Postman
-📚 Currently Learning
-Advanced React
-Performance Optimization
-Enterprise Frontend Architecture
-Authentication & Security
-System Design
+
 📫 Connect With Me
+
 💼 LinkedIn: https://www.linkedin.com/in/arti-joshi-173549149
 📧 Email: aartijoshi1997@gmail.com
 
