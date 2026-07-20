@@ -1,35 +1,68 @@
-# A-J151-
-# Hi, I'm Arti 👋
+👋 Hi, I'm Arti
+Frontend Software Engineer | React • JavaScript • Node.js
 
-Frontend-focused Software Engineer with experience building React applications, integrating REST APIs, and developing modern user interfaces.
+Building modern, scalable and user-friendly web applications.
 
-## 👩‍💻 Tech Stack
+💻 About Me
+💼 Frontend Software Engineer with 3+ years of experience building enterprise React applications.
+⚛️ Experienced in React, JavaScript, REST APIs, and responsive UI development.
+🛠 Worked with ASP.NET, C#, SQL Server, and Dynamics AX.
+🔌 Built Node.js automation scripts and backend services.
+🤖 Currently building AI-powered full-stack applications.
+🌱 Learning advanced React architecture, Node.js, and System Design.
+🚀 Featured Project
+📰 NewsPulse — AI Powered News Aggregator
 
-* React
-* JavaScript (ES6+)
-* Material UI
-* Node.js
-* Express.js
-* REST APIs
-* SQL
-* Git & GitHub
+A full-stack news application built using React, Express.js, Material UI, GNews API, and OpenRouter AI.
 
-## 🚀 Featured Project
+Features
+📰 Live News
+🤖 AI Article Summaries
+🔍 Search Articles
+🌍 Browse Categories
+📱 Responsive Design
+⚡ REST APIs
+☁️ Deployed on Vercel & Render
 
-### NewsPulse — AI Powered News Aggregator
+Repository:
 
-A full-stack news application built with React, Express, Material UI, GNews API, and OpenRouter AI.
+https://github.com/A-J151/newspulse
 
-**Highlights**
+Live Demo:
 
-* AI-generated news summaries
-* Category-based news browsing
-* Search functionality
-* Responsive Material UI design
-* Express.js backend with REST APIs
-* Deployed using Vercel and Render
+https://newspulse-cyan.vercel.app
+🛠 Tech Stack
+Frontend
+React
+JavaScript (ES6+)
+Material UI
+HTML5
+CSS3
+Vite
+Backend
+Node.js
+Express.js
+REST APIs
+Languages
+JavaScript
+C#
+SQL
+Database
+SQL Server
+MySQL
+Tools
+Git
+GitHub
+VS Code
+Postman
+📚 Currently Learning
+Advanced React
+Performance Optimization
+Enterprise Frontend Architecture
+Authentication & Security
+System Design
+📫 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/arti-joshi-173549149
+📧 Email: aartijoshi1997@gmail.com
 
-## 📫 Connect with me
-
-* LinkedIn: https://www.linkedin.com/in/arti-joshi-173549149/
-* Email: aartijoshi1997@gmail.com
+⭐ Always learning. Always building.
