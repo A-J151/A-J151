@@ -5,7 +5,7 @@ Building modern, scalable and user-friendly web applications.
 
 💻 About Me
 
-💼 Frontend Software Engineer with 3+ years of experience building enterprise React applications.
+💼 Frontend Software Engineer with 5+ years of experience building enterprise React applications.
 ⚛️ Experienced in React, JavaScript, REST APIs, and responsive UI development.
 🛠 Worked with ASP.NET, C#, SQL Server, and Dynamics AX.
 🔌 Built Node.js automation scripts and backend services.
